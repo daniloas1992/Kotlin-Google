@@ -1,0 +1,182 @@
+fun main() {
+    val morningNotification = 51
+    val eveningNotification = 135
+    
+    printNotificationSummary(morningNotification)
+    printNotificationSummary(eveningNotification)
+    
+    val child = 5
+    val adult = 28
+    val senior = 87
+    
+    val isMonday = true
+    
+    println("\n\nThe movie ticket price for a person aged $child is \$${ticketPrice(child, isMonday)}.")
+    println("The movie ticket price for a person aged $adult is \$${ticketPrice(adult, isMonday)}.")
+    println("The movie ticket price for a person aged $senior is \$${ticketPrice(senior, isMonday)}.")
+        
+    
+    val celsiusFahrenheit: (Double) -> Double = { initialMeasurement ->
+		(9/5.0) * (initialMeasurement) + 32        
+    }
+    
+    val kelvinCelsius: (Double) -> Double = { initialMeasurement ->
+		initialMeasurement - 273.15 
+    }
+    
+    val fahrenheitKelvin: (Double) -> Double = { initialMeasurement ->
+		(5/9.0) * (initialMeasurement - 32) + 273.15
+    }
+    
+    printFinalTemperature(27.00, "Celsius", "Fahrenheit", celsiusFahrenheit)
+    printFinalTemperature(350.00, "Kelvin", "Celsius", kelvinCelsius)
+    printFinalTemperature(10.00, "Fahrenheit", "Kelvin", fahrenheitKelvin)
+    
+    val song = Song("Uma Música", "Joaquim", 1995, 500)
+    song.printDescription()
+    
+    
+    val amanda = Person("Amanda", 33, "play tennis", null)
+    val atiqah = Person("Atiqah", 28, "climb", amanda)
+    val marroq = Person("Marroq", 32, null, amanda)
+    val tauruq = Person("Tauruq", 32, "play videogame", marroq)
+    
+    amanda.showProfile()
+    atiqah.showProfile()
+    marroq.showProfile()
+    tauruq.showProfile()
+    
+    val phone = FoldablePhone()
+    print("\n\nCheck: ")
+    phone.checkPhoneScreenLight()
+    print("Turn On: ")
+    phone.switchOn()
+    print("Opens: ")
+    phone.switchFoldedOpen()
+    print("Turn On: ")
+    phone.switchOn()
+    print("Check: ")
+    phone.checkPhoneScreenLight()
+    
+    
+    val winningBid = Bid(5000, "Private Collector")
+    
+    println("\n\nItem A is sold at ${auctionPrice(winningBid, 2000)}.")
+    println("Item B is sold at ${auctionPrice(null, 3000)}.")
+       
+}
+
+
+fun printNotificationSummary(numberOfMessages: Int) {
+    if (numberOfMessages >= 100)
+    	println("Your phone is blowing up! You have 99+ notifications.")
+    else
+    	println("You have ${numberOfMessages} notifications.")
+        
+}
+
+fun ticketPrice(age: Int, isMonday: Boolean): Int {
+
+     return when (age) {
+        in 1..10 -> 15
+        in 11..50 -> 25
+        in 50..120 -> 20
+        else -> 30
+        
+    }
+}
+
+fun printFinalTemperature(
+    initialMeasurement: Double, 
+    initialUnit: String, 
+    finalUnit: String, 
+    conversionFormula: (Double) -> Double
+) {
+    val finalMeasurement = String.format("%.2f", conversionFormula(initialMeasurement))
+    println("\n$initialMeasurement degrees $initialUnit is $finalMeasurement degrees $finalUnit.")
+}
+
+class Song(val titulo: String, val artista: String, val anoPublicacao: Int, val contagem: Int) {
+
+    val popular: String 
+    	get() = if (contagem > 1000) "Popular" else "Impopular"
+    
+    fun printDescription() {
+        println(String.format("\n\n%s, interpretado por %s, foi lançado em %d.", titulo, artista, anoPublicacao))
+    }
+
+}
+
+
+class Person(val name: String, val age: Int, val hobby: String?, val referrer: Person?) {
+    fun showProfile() {
+        
+        var like = getLikes() + getReferrerName()
+        
+        println(String.format("\n\nName: %s \nAge: %d \n%s", name, age, like))
+    }
+    
+    fun getLikes() : String {
+        return if (hobby == null) "" else String.format("Likes to %s.", hobby)
+    }
+    
+    fun getReferrerName() : String {
+        return if (referrer == null) " Doesn't have a referrer." 
+               else String.format("Has a referrer named %s%s", referrer.name, getReferrerHobby())
+    }
+    
+    fun getReferrerHobby() : String {
+        if(referrer == null) return ""
+        
+        return if (referrer.hobby == null) ", who has no hobby." else String.format(", who likes to %s.", referrer.hobby)
+    }
+}
+
+
+open class Phone(var isScreenLightOn: Boolean = false){
+    open fun switchOn() {
+        isScreenLightOn = true
+    }
+    
+    open fun switchOff() {
+        isScreenLightOn = false
+    }
+    
+    fun checkPhoneScreenLight() {
+        val phoneScreenLight = if (isScreenLightOn) "on" else "off"
+        println("The phone screen's light is $phoneScreenLight.")
+    }
+}
+
+class FoldablePhone() : Phone(false) {
+    
+    var isFolded = true
+    
+    fun switchFoldedOpen() {
+        isFolded = false
+        println("The phone is Opened!")
+    }
+    
+    fun switchFoldedClose() {
+        isFolded = true
+        println("The phone is Closed!")
+    }
+    
+    override fun switchOn() {
+        isScreenLightOn = if(isFolded) false else true
+        
+        if (isScreenLightOn) println("Screen light on!")
+        else println("The phone is folded! Open it!")
+    }
+    
+    override fun switchOff() {
+        isScreenLightOn = false
+    }
+      
+}
+
+class Bid(val amount: Int, val bidder: String)
+
+fun auctionPrice(bid: Bid?, minimumPrice: Int): Int {   
+   return bid?.amount ?: minimumPrice
+}
