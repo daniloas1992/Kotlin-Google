@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ArtGallery</string>
+    <string name="image1_description">Imagem1 description.</string>
+    <string name="image2_description">Imagem2 description.</string>
+    <string name="image3_description">Imagem3 description.</string>
+    <string name="image4_description">Imagem4 description.</string>
+    <string name="image5_description">Imagem5 description.</string>
+    <string name="image6_description">Imagem6 description.</string>
+    <string name="image7_description">Imagem7 description.</string>
+    <string name="image8_description">Imagem8 description.</string>
+    <string name="image9_description">Imagem9 description.</string>
+    <string name="image1_title">Imagem1 title</string>
+    <string name="image2_title">Imagem2 title</string>
+    <string name="image3_title">Imagem3 title</string>
+    <string name="image4_title">Imagem4 title</string>
+    <string name="image5_title">Imagem5 title</string>
+    <string name="image6_title">Imagem6 title</string>
+    <string name="image7_title">Imagem7 title</string>
+    <string name="image8_title">Imagem8 title</string>
+    <string name="image9_title">Imagem9 title</string>
+
+</resources>
