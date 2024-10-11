@@ -1,0 +1,242 @@
+<resources>
+    <string name="app_name">Movies For Us</string>
+
+    <string name="back_button">Back</string>
+    <string name="select_genre">Selecione o Gênero</string>
+    <string name="select_movie">Selecione o Filme</string>
+    <string name="details">Detalhes</string>
+    <string name="trailer">Trailer</string>
+
+    <string name="title_1_dangal">Dangal</string>
+    <string name="duration_1_dangal">161 minutos</string>
+    <string name="year_1_dangal">2016</string>
+    <string name="sinopse_1_dangal">Mahavir Phogat vive em uma aldeia em Haryana com sua esposa Daya. Mahavir é um lutador amador e ganhou vários campeonatos locais. No entanto, ele teve que desistir da luta profissional, mas a luta nunca realmente o deixou. Mahavir sonha em um dia ter um filho homem que trará uma medalha de ouro para a Índia. Infelizmente sua esposa dá à luz quatro filhas, as duas primeiras são Geeta e Babita nas quais Mahavir deposita seu sonho de ouro, ensinado a elas a arte de lutar.</string>
+    <string name="genre_1_dangal">Ação | Biografia | Drama | Esporte</string>
+    <string name="youtube_video_id_1_dangal">x_7YlGv9u1g</string>
+
+    <string name="title_2_padman">Padman</string>
+    <string name="duration_2_padman">140 minutos</string>
+    <string name="year_2_padman">2018</string>
+    <string name="sinopse_2_padman">O filme é baseado na história real de Arunachalam Muruganantham, inventor de uma maquina que produz absorvente feminino de baixo custo, ajudando a conscientizar a população sobre práticas anti-higiênicas tradicionais em torno da menstruação na Índia rural.</string>
+    <string name="genre_2_padman">Drama</string>
+    <string name="youtube_video_id_2_padman">V4lCZg3GR9c</string>
+
+    <string name="title_3_o_menino_que_descobriu_o_vento">O menino que descobriu o vento</string>
+    <string name="duration_3_o_menino_que_descobriu_o_vento">113 minutos</string>
+    <string name="year_3_o_menino_que_descobriu_o_vento">2019</string>
+    <string name="sinopse_3_o_menino_que_descobriu_o_vento">William Kamkwamba (Maxwell Simba) é um garoto de 13 anos que sai da escola que ama quando sua família não pode mais pagar pelos custos. Voltando em segredo para a biblioteca da escola, ele encontra um caminho, usando partes da bicicleta pertencente ao seu pai Trywell (Chiwetel Ejiofor), para construir um moinho que, em seguida, salva sua aldeia da fome. A viagem emocional de um pai e seu filho excepcional em seu coração, captura a determinação incrível de um menino cuja mente inquisitiva superou todos os obstáculos em seu caminho.</string>
+    <string name="genre_3_o_menino_que_descobriu_o_vento">Drama</string>
+    <string name="youtube_video_id_3_o_menino_que_descobriu_o_vento">OBprnlpM744</string>
+
+    <string name="title_4_flamin_hot">Flamin\' Hot: O Sabor que Mudou a História</string>
+    <string name="duration_4_flamin_hot">99 minutos</string>
+    <string name="year_4_flamin_hot">2023</string>
+    <string name="sinopse_4_flamin_hot">"Flamin' Hot" vai contar a história de Richard Montanez, o inventor do Cheetos picante (Hot Flaming Cheetos). Montanez era um imigrante do México que chegou nos Estados Unidos para trabalhar na fazenda colhendo uvas e, em 1976, conseguiu um emprego como zelador da Frito-Lay — empresa que produz diversos salgadinhos como Lays, Cheetos e Doritos. Um belo dia, o funcionário teve a ideia de criar o Hot Flaming Cheetos — o que transformou completamente a empresa. O inventor foi um dos primeiros a colocar uma abordagem alimentícia multicultural em produtos industrializados — misturando as culturas norte-americanas e mexicanas em um produto e fazendo o marketing exaltando essas culturas. Ele é considerado o pai do “marketing multicultural” e atualmente é um alto executivo na Pepsico.</string>
+    <string name="genre_4_flamin_hot">Biografia | Drama | História</string>
+    <string name="youtube_video_id_4_flamin_hot">pOcgsLH6lJM</string>
+
+    <string name="title_5_ameliepoulain">O Fabuloso Destino de Amélie Poulain</string>
+    <string name="duration_5_ameliepoulain">122 minutos</string>
+    <string name="year_5_ameliepoulain">2001</string>
+    <string name="sinopse_5_ameliepoulain">Após deixar a vida de subúrbio que levava com a família, a inocente Amélie (Audrey Tautou) muda-se para o bairro parisiense de Montmartre, onde começa a trabalhar como garçonete. Certo dia encontra uma caixa escondida no banheiro de sua casa e, pensando que pertencesse ao antigo morador, decide procurá-lo ­ e é assim que encontra Dominique (Maurice Bénichou). Ao ver que ele chora de alegria ao reaver o seu objeto, a moça fica impressionada e adquire uma nova visão do mundo. Então, a partir de pequenos gestos, ela passa a ajudar as pessoas que a rodeiam, vendo nisto um novo sentido para sua existência. Contudo, ainda sente falta de um grande amor.</string>
+    <string name="genre_5_ameliepoulain">Comédia | Romance</string>
+    <string name="youtube_video_id_5_ameliepoulain">x66lQBVLT0Q</string>
+
+    <string name="title_6_a_100_passos_de_um_sonho">A 100 Passos de Um Sonho</string>
+    <string name="duration_6_a_100_passos_de_um_sonho">122 minutos</string>
+    <string name="year_6_a_100_passos_de_um_sonho">2014</string>
+    <string name="sinopse_6_a_100_passos_de_um_sonho">No sul da França, Madame Mallory é uma respeitada e autoritária dona de um restaurante estrelado no famoso guia Michelin que está cada vez mais preocupada com um estabelecimento indiano, concorrente, que abriu do outro lado da rua do seu empreendimento. Ela trava uma verdadeira guerra contra o vizinho, mas aos poucos conhece o filho do seu adversário, Hassan Kadam, um garoto com verdadeiro talento para a culinária. Os dois tornam-se amigos, e Mallory passa a guiá-lo pelos conhecimentos da refinada gastronomia francesa, sem abandonar a tradição indiana, encorajando-o a alçar voos muito mais altos.</string>
+    <string name="genre_6_passos_de_um_sonho">Comédia | Drama</string>
+    <string name="youtube_video_id_6_passos_de_um_sonho">s2vYugcZB2I</string>
+
+    <string name="title_7_um_amor_para_recordar">Um Amor Para Recordar</string>
+    <string name="duration_7_um_amor_para_recordar">101 minutos</string>
+    <string name="year_7_um_amor_para_recordar">2002</string>
+    <string name="sinopse_7_um_amor_para_recordar">Como punição por ter feito uma brincadeira de mau gosto que resultou na hospitalização de um colega, Landon Carter (Shane West) é obrigado a trabalhar como tutor de jovens carentes e a participar da peça teatral da escola. Ele será auxiliado por Jamie Sullivan (Mandy Moore), a filha do pastor da cidade, com quem estudou desde criança mas nunca teve nada em comum: ela usa sempre o mesmo suéter velho, não tem muitos amigos, é excelente aluna e extremamente religiosa. No início, o garoto se revolta com a situação porém, quanto mais tempo passa com Jamie, mais intrigado ele fica, e acaba deixando de atender o único pedido feito pela garota quando começaram a andar juntos: o de que não se apaixonasse por ela.</string>
+    <string name="genre_7_um_amor_para_recordar">Drama | Romance</string>
+    <string name="youtube_video_id_7_um_amor_para_recordar">n_U7gBQNFwk</string>
+
+    <string name="title_8_oracoes_para_bobby">Orações para Bobby</string>
+    <string name="duration_8_oracoes_para_bobby">89 minutos</string>
+    <string name="year_8_oracoes_para_bobby">2009</string>
+    <string name="sinopse_8_oracoes_para_bobby">Mary é uma religiosa que segue à risca todas as palavras da bíblia. Quando seu filho Bobby revela ser gay, ela imediatamente leva o filho para terapias e cultos religiosos com o intuito de “curá-lo”.</string>
+    <string name="genre_8_oracoes_para_bobby">Biografia | Drama</string>
+    <string name="youtube_video_id_8_oracoes_para_bobby">8f25qorrdEI</string>
+
+    <string name="title_9_a_cor_purpura">A Cor Púrpura</string>
+    <string name="duration_9_a_cor_purpura">154 minutos</string>
+    <string name="year_9_a_cor_purpura">1985</string>
+    <string name="sinopse_9_a_cor_purpura">No início do século XX, em uma pequena cidade da Georgia, Celie (Whoopi Goldberg), de apenas 14 anos, foi violentada pelo pai e se tornou mãe de duas crianças. Além de perder a capacidade de procriar, a jovem imediatamente é separada dos filhos e da única pessoa no mundo que a ama, sua irmã, e é doada a Mister (Danny Glover), que a trata simultaneamente como escrava e companheira. Este alimenta uma forte paixão por Shug Avery (Margaret Avery), uma sensual cantora de blues. Celie fica muito solitária e compartilha sua tristeza em cartas (a única forma de manter a sanidade em um mundo onde poucos a ouvem), primeiramente com Deus e depois com a irmã Nettie (Akosua Busia). Mas quando Shug, aliada à forte Sofia (Oprah Winfrey), esposa de Harpo (Willard E. Pugh), filho de Mister, entram na sua vida, Celie revela seu espírito brilhante, ganhando consciência do seu valor e das possibilidades que o mundo lhe oferece. Baseado no romance homônimo de Alice Walker.</string>
+    <string name="genre_9_a_cor_purpura">Drama</string>
+    <string name="youtube_video_id_9_a_cor_purpura">Var2TXCpfYM</string>
+
+    <string name="title_10_qual_o_nome_do_bebe">Qual é o Nome do Bebê?</string>
+    <string name="duration_10_qual_o_nome_do_bebe">109 minutos</string>
+    <string name="year_10_qual_o_nome_do_bebe">2012</string>
+    <string name="sinopse_10_qual_o_nome_do_bebe">Vincent tem 40 anos e está prestes a se tornar pai. Ele é convidado para jantar na casa de sua irmã Elisabeth e de Pierre, seu cunhado, e lá encontra Claude, um amigo de infância. Vincent aguarda sua sempre atrasada esposa Anna chegar. A ausência da mãe parece a situação ideal para que os três bombardeiem Vincent com perguntas e piadas sobre sua futura paternidade. Mas quando lhe perguntam sobre a escolha de um nome para o bebê, sua resposta semeia discórdia entre o grupo, transformando um simples jantar em um verdadeiro caos.</string>
+    <string name="genre_10_qual_o_nome_do_bebe">Comédia</string>
+    <string name="youtube_video_id_10_qual_o_nome_do_bebe">h9GPqoMTyjA</string>
+
+    <string name="title_11_sombras_de_goya">Sombras de Goya</string>
+    <string name="duration_11_sombras_de_goya">113 minutos</string>
+    <string name="year_11_sombras_de_goya">2006</string>
+    <string name="sinopse_11_sombras_de_goya">Nos primeiros anos do século XIX, em meio ao radicalismo da Inquisição e à iminente invasão da Espanha pelas tropas de Napoleão Bonaparte (Craig Stevenson), o gênio artístico do pintor espanhol Francisco Goya (Stellan Skarsgård) é reconhecido na corte do Rei Carlos IV (Randy Quaid). Inés (Natalie Portman), a jovem modelo e musa do pintor, é presa sob a falsa acusação de heresia. Nem as intervenções do influente Frei Lorenzo (Javier Bardem), também retratado por Goya, conseguem evitar que ela seja brutalmente torturada nos porões da Igreja. Estes personagens e os horrores da guerra, com os seus fantasmas, alimentam a pintura de Goya, testemunha atormentada de uma época turbulenta.</string>
+    <string name="genre_11_sombras_de_goya">Biografia | Drama | História</string>
+    <string name="youtube_video_id_11_sombras_de_goya">omhJmqKc48E</string>
+
+    <string name="title_12_moca_com_brinco_de_perola">Moça com Brinco de Pérola</string>
+    <string name="duration_12_moca_com_brinco_de_perola">95 minutos</string>
+    <string name="year_12_moca_com_brinco_de_perola">2003</string>
+    <string name="sinopse_12_moca_com_brinco_de_perola">Em pleno século XVII vive Griet (Scarlett Johansson), uma jovem camponesa holandesa. Devido a dificuldades financeiras, Griet é obrigada a trabalhar na casa de Johannes Vermeer (Colin Firth), um renomado pintor de sua época. Aos poucos Johannes começa a prestar atenção na jovem de apenas 17 anos, fazendo dela sua musa inspiradora para um de seus mais famosos trabalhos: a tela "Girl with a Pearl Earring".</string>
+    <string name="genre_12_moca_com_brinco_de_perola">Biografia | Drama | Romance</string>
+    <string name="youtube_video_id_12_moca_com_brinco_de_perola">U9FVQH-8k9k</string>
+
+    <string name="title_13_piaf_um_hino_ao_amor">Piaf - Um Hino ao Amor</string>
+    <string name="duration_13_piaf_um_hino_ao_amor">140 minutos</string>
+    <string name="year_13_piaf_um_hino_ao_amor">2007</string>
+    <string name="sinopse_13_piaf_um_hino_ao_amor">A vida de Edith Piaf (Marion Cotillard) foi sempre uma batalha. Abandonada pela mãe, foi criada pela avó, dona de um bordel na Normandia. Dos 3 aos 7 anos de idade fica cega, recuperando-se milagrosamente. Mais tarde vive com o pai alcoólatra, a quem abandona aos 15 anos para cantar nas ruas de Paris. Em 1935 é descoberta por um dono de boate e neste mesmo ano grava seu primeiro disco. A vida sofrida é coroada com o sucesso internacional. Fama, dinheiro, amizades, mas também a constante vigilância da opinião pública.</string>
+    <string name="genre_13_piaf_um_hino_ao_amor">Biografia | Drama | Musical</string>
+    <string name="youtube_video_id_13_piaf_um_hino_ao_amor">2e1lGuNgb6Y</string>
+
+    <string name="title_14_dreamgirls">Dreamgirls - Em Busca de um Sonho</string>
+    <string name="duration_14_dreamgirls">130 minutos</string>
+    <string name="year_14_dreamgirls">2006</string>
+    <string name="sinopse_14_dreamgirls">Detroit, década de 60. Curtis Taylor Jr. (Jamie Foxx) é um vendedor de carros, que sonha em deixar seu nome marcado no mundo da música. Ele deseja abrir sua própria gravadora, mas ainda não tem o formato e o produto certo para vender ao público. Curtis encontra o que procura ao conhecer o grupo The Dreamettes, formado pelas cantoras Deena Jones (Beyoncé Knowles), Lorrell Robinson (Anika Noni Rose) e Effie White (Jennifer Hudson). Elas se apresentam em um show de talentos local, usando perucas baratas e vestidos feitos em casa. Suas vidas mudam quando Curtis, já seu agente, consegue que elas façam o backup do show de James "Thunder" Early (Eddie Murphy), o pioneiro de um novo som em Detroit. Posteriormente o grupo alça vôo solo, mudando de nome para The Dreams. Porém Curtis sabe que para alcançar o sucesso o grupo precisará apostar na beleza provocante e tímida de Deena, mesmo que tenha que deixar de lado a voz potente de Effie.</string>
+    <string name="genre_14_dreamgirls">Drama | Musical</string>
+    <string name="youtube_video_id_14_dreamgirls">DTgGuFOh2M0</string>
+
+    <string name="title_15_o_castelo_de_vidro">O Castelo de Vidro</string>
+    <string name="duration_15_o_castelo_de_vidro">127 minutos</string>
+    <string name="year_15_o_castelo_de_vidro">2017</string>
+    <string name="sinopse_15_o_castelo_de_vidro">Uma família disfuncional viajava o tempo todo, sem se preocupar com o futuro. Quando o dinheiro dos pais acabou, Jeanette e o irmão tiveram que cuidar de si mesmos, até conseguirem ir embora.</string>
+    <string name="genre_15_o_castelo_de_vidro">Biografia | Drama</string>
+    <string name="youtube_video_id_15_o_castelo_de_vidro">9zB8h9dx3qU</string>
+
+    <string name="title_16_capitao_fantastico">Capitão Fantástico</string>
+    <string name="duration_16_capitao_fantastico">118 minutos</string>
+    <string name="year_16_capitao_fantastico">2016</string>
+    <string name="sinopse_16_capitao_fantastico">Ben é o pai de seis crianças, que decide fugir da civilização e criar os filhos nas florestas do estado de Washington, noroeste americano. Ele passa os seus dias dando lições às crianças, ensinando-os a praticar esportes e a combater inimigos. Um dia, no entanto, Ben é forçado a deixar o local e retornar à vida na cidade. Começa o aprendizado do pai, que deve se acostumar à vida moderna.</string>
+    <string name="genre_16_capitao_fantastico">Comédia | Drama</string>
+    <string name="youtube_video_id_16_capitao_fantastico">HLYhkO3Horc</string>
+
+    <string name="title_17_estrelas_alem_do_tempo">Estrelas Além do Tempo</string>
+    <string name="duration_17_estrelas_alem_do_tempo">127 minutos</string>
+    <string name="year_17_estrelas_alem_do_tempo">2017</string>
+    <string name="sinopse_17_estrelas_alem_do_tempo">A história é centrada em Katherine Johnson (Henson), uma brilhante matemática afroamericana que, ao lado das colegas Dorothy Vaughn e Mary Jackson, foi peça fundamental numa das maiores operações da história dos Estados Unidos: o lançamento do astronauta John Glenn para a órbita da Terra e seu retorno em segurança. Junto, o trio ultrapassou todos os limites de gênero, raça e profissionais para embarcar e serem muito bem-sucedidas nessa missão pioneira.</string>
+    <string name="genre_17_estrelas_alem_do_tempo">Biografia | Drama | História</string>
+    <string name="youtube_video_id_17_estrelas_alem_do_tempo">wx3PVtrU-Os</string>
+
+    <string name="title_18_valerian">Valerian e a Cidade dos Mil Planetas</string>
+    <string name="duration_18_valerian">137 minutos</string>
+    <string name="year_18_valerian">2017</string>
+    <string name="sinopse_18_valerian">Século XXVIII. Valérian (Dane DeHaan) é um agente viajante do tempo e do espaço que luta ao lado da parceira Laureline (Cara Delevingne), por quem é apaixonado, em defesa da Terra e seus planetas aliados, continuamente atacados por bandidos intergaláticos. Quando chegam no planeta Alpha, eles precisarão acabar com uma operação comandada por grandes forças que deseja destruir os sonhos e as vidas dos dezessete milhões de habitantes do planeta.</string>
+    <string name="genre_18_valerian">Ficção Científica</string>
+    <string name="youtube_video_id_18_valerian">s01qE3iv_lM</string>
+
+    <string name="title_19_warcraft">Warcraft: O Primeiro Encontro de Dois Mundos</string>
+    <string name="duration_19_warcraft">123 minutos</string>
+    <string name="year_19_warcraft">2016</string>
+    <string name="sinopse_19_warcraft">O reino pacífico de Azeroth está à beira de uma guerra enquanto sua civilização enfrenta uma raça temível de invasores: guerreiros Orcs fugindo de sua casa moribunda para colonizar um novo lugar. Enquanto um portal se abre para conectar os dois mundos, um exército enfrenta destruição e o outro enfrenta a extinção. De lados opostos, dois heróis são colocados em um caminho de colisão que irá decidir o destino de suas famílias, seu povo e seu lar. Então, uma saga espetacular de poder e sacrifício começa, onde a guerra tem muitas faces, e todos lutam por algo.</string>
+    <string name="genre_19_warcraft">Ação | Aventura | Fantasia</string>
+    <string name="youtube_video_id_19_warcraft">Dqvz8w-latE</string>
+
+    <string name="title_20_ate_o_ultimo_homem">Até o Último Homem</string>
+    <string name="duration_20_ate_o_ultimo_homem">139 minutos</string>
+    <string name="year_20_ate_o_ultimo_homem">2016</string>
+    <string name="sinopse_20_ate_o_ultimo_homem">Durante a Segunda Guerra Mundial, o médico do exército Desmond T. Doss se recusa a pegar em uma arma e matar pessoas, porém, durante a Batalha de Okinawa ele trabalha na ala médica e salva mais de 75 homens, sendo condecorado. O que faz de Doss o primeiro Opositor Consciente da história norte-americana a receber a Medalha de Honra do Congresso.</string>
+    <string name="genre_20_ate_o_ultimo_homem">Drama | Guerra | História</string>
+    <string name="youtube_video_id_20_ate_o_ultimo_homem">xo_7GA4Y-AU</string>
+
+    <string name="title_21_flores_do_oriente">Flores do Oriente</string>
+    <string name="duration_21_flores_do_oriente">146 minutos</string>
+    <string name="year_21_flores_do_oriente">2011</string>
+    <string name="sinopse_21_flores_do_oriente">Em 1937, Nanquim encontra-se na frente de batalha entre China e Japão. Enquanto o exército imperial japonês invade a capital da China, os habitantes desesperados procuram refúgio atrás dos muros de uma catedral ocidental. Ali, John Miller (Christian Bale), um americano preso no meio do caos da batalha e da ocupação que se segue abriga-se, seguido por um grupo de estudantes inocentes e quatorze prostitutas, igualmente determinadas a fugir dos horrores que ocorrem do lado de fora da catedral. Lutando para sobreviver à violência e perseguição do exército japonês, um ato de heroísmo acaba levando um grupo aparentemente discrepante, a arriscar suas vidas pelo bem de todos.</string>
+    <string name="genre_21_flores_do_oriente">Drama | Guerra | História</string>
+    <string name="youtube_video_id_21_flores_do_oriente">aVvUpg8rsL4</string>
+
+    <string name="title_22_menina_de_ouro">Menina de Ouro</string>
+    <string name="duration_22_menina_de_ouro">132 minutos</string>
+    <string name="year_22_menina_de_ouro">2004</string>
+    <string name="sinopse_22_menina_de_ouro">Frankie Dunn (Clint Eastwood) passou a vida nos ringues, tendo agenciado e treinado grandes boxeadores. Frankie costuma passar aos lutadores com quem trabalha a mesma lição que segue para sua vida: antes de tudo, se proteja. Magoado com o afastamento de sua filha, Frankie é uma pessoa fechada e que apenas se relaciona com Scrap (Morgan Freeman), seu único amigo, que cuida também de seu ginásio. Até que surge em sua vida Maggie Fitzgerald (Hilary Swank), uma jovem determinada que possui um dom ainda não lapidado para lutar boxe. Maggie quer que Frankie a treine, mas ele não aceita treinar mulheres e, além do mais, acredita que ela esteja velha demais para iniciar uma carreira no boxe. Apesar da negativa de Frankie, Maggie decide treinar diariamente no ginásio. Ela recebe o apoio de Scrap, que a encoraja a seguir adiante. Vencido pela determinação de Maggie, Frankie enfim aceita ser seu treinador.</string>
+    <string name="genre_22_menina_de_ouro">Drama | Esporte</string>
+    <string name="youtube_video_id_22_menina_de_ouro">M-sfwKVcrsQ</string>
+
+    <string name="title_23_carlota_joaquina">Carlota Joaquina, Princesa do Brasil</string>
+    <string name="duration_23_carlota_joaquina">100 minutos</string>
+    <string name="year_23_carlota_joaquina">1995</string>
+    <string name="sinopse_23_carlota_joaquina">Um painel da vida de Carlota Joaquina (Marieta Severo), a infanta espanhola que conheceu o príncipe de Portugal (Marco Nanini) com apenas dez anos e se decepcionou com o futuro marido. Sempre mostrou disposição para seus amantes e pelo poder e se sentiu tremendamente contrariada quando a corte portuguesa veio para o Brasil, tendo uma grande sensação de alívio quando foi embora.</string>
+    <string name="genre_23_carlota_joaquina">História</string>
+    <string name="youtube_video_id_23_carlota_joaquina">G2A89SmUsuU</string>
+
+    <string name="title_24_duas_rainhas">Duas Rainhas</string>
+    <string name="duration_24_duas_rainhas">125 minutos</string>
+    <string name="year_24_duas_rainhas">2018</string>
+    <string name="sinopse_24_duas_rainhas">Mary, ainda criança, foi prometida ao filho mais velho do rei Henrique II, Francis, e então foi levada para França. Mas logo Francis morre e Mary volta para a Escócia, na tentativa de derrubar sua prima Elizabeth I, a Rainha da Inglaterra.</string>
+    <string name="genre_24_duas_rainhas">Drama | História</string>
+    <string name="youtube_video_id_24_duas_rainhas">hzWXhzM_mqg</string>
+
+    <string name="title_25_o_predestinado">O Predestinado</string>
+    <string name="duration_25_o_predestinado">97 minutos</string>
+    <string name="year_25_o_predestinado">2014</string>
+    <string name="sinopse_25_o_predestinado">Um agente temporal (Ethan Hawke) encara sua última missão após anos de viagens no tempo caçando criminosos e executando a lei. O desafio final será finalmente capturar seu inimigo mais desafiador, o homem que há muito o intriga e ludibria.</string>
+    <string name="genre_25_o_predestinado">Ação | Ficção Científica | Thriller</string>
+    <string name="youtube_video_id_25_o_predestinado">HwWgsSa0PD0</string>
+
+    <string name="title_26_os_outros">Os Outros</string>
+    <string name="duration_26_os_outros">101 minutos</string>
+    <string name="year_26_os_outros">2001</string>
+    <string name="sinopse_26_os_outros">Durante a 2ª Guerra Mundial, Grace (Nicole Kidman) decide por se mudar, juntamente com seus dois filhos, para uma mansão isolada na ilha de Jersey, a fim de esperar que seu marido retorne da guerra. Como seus filhos possuem uma estranha doença que os impedem de receber diretamente a luz do sol, a casa onde vivem está sempre em total escuridão. Eles vivem sozinhos seguindo religiosamente certas regras, como nunca abrir uma porta sem fechar a anterior, mas quando eles contratam empregados para a casa eles terminam quebrando estas regras, fazendo com que imprevisíveis consequências ocorram.</string>
+    <string name="genre_26_os_outros">Drama | Mistério | Suspense | Terror</string>
+    <string name="youtube_video_id_26_os_outros">iZmV5gOwHRI</string>
+
+    <string name="title_27_burlesque">Burlesque</string>
+    <string name="duration_27_burlesque">119 minutos</string>
+    <string name="year_27_burlesque">2010</string>
+    <string name="sinopse_27_burlesque">Ali (Christina Aguilera) é uma garota de uma cidade pequena com uma grande voz que escapa para Los Angeles para seguir seus sonhos. Após se deparar com o The Burlesque Lounge, um majestoso mas ofegante teatro que serve como local para um clube noturno que evoca o melhor do passado musical, Ali consegue um trabalho como garçonete de Tess (Cher), a proprietária do lugar. Os provocantes figurinos e coreografias ousadas do Burlesque desperta na jovem ingênua uma paixão de um dia performar nestes palcos.</string>
+    <string name="genre_27_burlesque">Drama | Musical | Romance</string>
+    <string name="youtube_video_id_27_burlesque">pBb6xpw-1Og</string>
+
+    <string name="title_28_no_limite_do_amanha">No Limite do Amanhã</string>
+    <string name="duration_28_no_limite_do_amanha">113 minutos</string>
+    <string name="year_28_no_limite_do_amanha">2014</string>
+    <string name="sinopse_28_no_limite_do_amanha">Quando a Terra é tomada por alienígenas, Bill Cage (Tom Cruise), relações públicas das Forças Armadas dos Estados Unidos, é obrigado a ir para a linha de frente no dia do confronto final. Inexplicavelmente ele acaba preso no tempo, condenado a reviver esta data repetidamente. A cada morte e renascimento, Cage avança e, antecipando os acontecimentos, tem a chance de mudar o curso da batalha com o apoio da guerreira Rita Vrataski (Emily Blunt).</string>
+    <string name="genre_28_no_limite_do_amanha">Ação | Ficção Científica</string>
+    <string name="youtube_video_id_28_no_limite_do_amanha">KzOSJPYiCbM</string>
+
+    <string name="title_29_o_exorcismo_de_emily_rose">O Exorcismo de Emily Rose</string>
+    <string name="duration_29_o_exorcismo_de_emily_rose">119 minutos</string>
+    <string name="year_29_o_exorcismo_de_emily_rose">2005</string>
+    <string name="sinopse_29_o_exorcismo_de_emily_rose">A jovem estudante Emily Rose começa a alucinar e ter surtos cada vez mais frequentes, que causam perda de memória. Católica praticante, ela aceita ser submetida a uma sessão de exorcismo. Quem a realiza é o sacerdote de sua paróquia, o padre Richard Moore. Porém, Emily morre durante o exorcismo, o que faz com que o padre seja acusado de assassinato. A advogada Erin Bruner aceita pegar a defesa do padre e argumenta que a condição de Emily não pode ser explicada somente pela ciência.</string>
+    <string name="genre_29_o_exorcismo_de_emily_rose">Drama | Policial | Suspense | Terror</string>
+    <string name="youtube_video_id_29_o_exorcismo_de_emily_rose">qxYe9X24CdM</string>
+
+    <string name="title_30_o_ultimo_samurai">O Último Samurai</string>
+    <string name="duration_30_o_ultimo_samurai">154 minutos</string>
+    <string name="year_30_o_ultimo_samurai">2003</string>
+    <string name="sinopse_30_o_ultimo_samurai">Em 1870 é enviado ao Japão o capitão Nathan Algren, um conceituado militar norte-americano. A missão de Algren, é treinar as tropas do imperador Meiji, para que elas possam eliminar os últimos samurais que ainda vivem na região. Porém, após ser capturado pelo inimigo, Algren, aprende com Katsumoto, o código de honra dos samurais e passa a ficar em dúvida sobre que lado apoiar.</string>
+    <string name="genre_30_o_ultimo_samurai">Ação | Drama | Guerra | História</string>
+    <string name="youtube_video_id_30_o_ultimo_samurai">a_DFVJC9DCo</string>
+
+    <string name="title_31_terra_de_minas">Terra de Minas</string>
+    <string name="duration_31_terra_de_minas">100 minutos</string>
+    <string name="year_31_terra_de_minas">2015</string>
+    <string name="sinopse_31_terra_de_minas">Um grupo de jovens prisioneiros de guerra alemães são feitos os inimigos de uma nação, onde são agora obrigados a cavar 2 milhões de minas terrestres com as próprias mãos.</string>
+    <string name="genre_31_terra_de_minas">Drama | Guerra | História</string>
+    <string name="youtube_video_id_31_terra_de_minas">uDespcGlclI</string>
+
+    <string name="title_32_p_s_eu_te_amo">P.S. Eu Te Amo</string>
+    <string name="duration_32_p_s_eu_te_amo">126 minutos</string>
+    <string name="year_32_p_s_eu_te_amo">2008</string>
+    <string name="sinopse_32_p_s_eu_te_amo">Holly Kennedy (Hilary Swank) é casada com Gerry (Gerard Butler), um irlandês engraçado por quem é completamente apaixonada. Porém quando Gerry morre devido a uma doença a vida de Holly também acaba, já que ela entra em profunda depressão. Mas o que ela não esperava era que, imaginando que isto poderia acontecer, Gerry deixou para ela diversas cartas antes de morrer. Cada uma delas busca guiar Holly no caminho de sua recuperação, não apenas da dor pela sua perda mas também de sua própria redescoberta.</string>
+    <string name="genre_32_p_s_eu_te_amo">Drama | Romance</string>
+    <string name="youtube_video_id_32_p_s_eu_te_amo">cyHpDzt6184</string>
+
+    <string name="title_33_ilha_do_medo">Ilha do Medo</string>
+    <string name="duration_33_ilha_do_medo">138 minutos</string>
+    <string name="year_33_ilha_do_medo">2010</string>
+    <string name="sinopse_33_ilha_do_medo">Em 1954, uma dupla de agentes federais investiga o desaparecimento de uma assassina que estava hospitalizada. Ao viajarem para Shutter Island - ilha localizada em Massachusetts - para cuidar do caso, eles enfrentam desde uma rebelião de presos a um furacão, ficando presos no local e emaranhados numa rede de intrigas.</string>
+    <string name="genre_33_ilha_do_medo">Drama | Mistério | Thriller</string>
+    <string name="youtube_video_id_33_ilha_do_medo">gL4rP2prdfg</string>
+
+
+</resources>
